@@ -2,6 +2,15 @@
 
 Unity-проект с зимними сценами: прогулочный облёт камерой заснеженного леса и песочница с машинами, между которыми игрок может пересаживаться на лету.
 
+## Билд
+Ссылка: https://drive.google.com/file/d/1aJUMpP5QPSE5nEvXzXpueghPuQmD0q-9/view?usp=sharing
+
+## Видео Тестовое 1 - Зимний лес
+Ссылка: https://drive.google.com/file/d/148YtS025LteH9UsOtNTpNkT6T8lzMhfO/view?usp=sharing
+
+## Видео Тестовое 2 - Машины
+Ссылка: https://drive.google.com/file/d/1FgZTLsf6C25Troi-MuI-uPgR0IKJjxXX/view?usp=sharing
+
 ## Требования
 
 - **Unity 6000.3.11f1** (Unity 6.3)
